@@ -1,0 +1,24 @@
+
+.navbar {
+    background-color: #000000; 
+  }
+
+.cart-widget {
+    position: relative;
+    display: flex;
+    align-items: center;
+    margin-left: 800px; 
+   
+  }
+  
+  .cart-icon {
+    font-size: 24px;
+    margin-right: 5px; 
+  }
+  
+  .notification {
+    color: rgb(8, 8, 8);
+    border-radius: 50%;
+    padding: 5px 8px;
+    font-size: 14px;
+  }
